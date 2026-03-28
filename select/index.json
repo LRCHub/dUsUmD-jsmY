@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "Into your dream",
+  "base_artist": "eill",
+  "createdAt": "2026-03-28T09:34:04.590937Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Into Your Dream",
+      "artist": "Foreign Born",
+      "has_synced": true,
+      "path": "select/01_Into_Your_Dream_Foreign_Born.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Into your dream",
+      "artist": "eill",
+      "has_synced": true,
+      "path": "select/02_Into_your_dream_eill.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FLY INTO YOUR DREAM",
+      "artist": "Hotei",
+      "has_synced": true,
+      "path": "select/03_FLY_INTO_YOUR_DREAM_Hotei.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "FLY INTO YOUR DREAM",
+      "artist": "Tomoyasu Hotei (布袋寅泰)",
+      "has_synced": true,
+      "path": "select/04_FLY_INTO_YOUR_DREAM_Tomoyasu_Hotei_(布袋寅泰).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Into Your Dream (The Sophie Moon)",
+      "artist": "Dan Andriano & The Bygones",
+      "has_synced": true,
+      "path": "select/05_Into_Your_Dream_(The_Sophie_Moon)_Dan_Andriano_&_The_Bygones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fly Into Your Dream",
+      "artist": "Tomoyasu Hotei",
+      "has_synced": true,
+      "path": "select/06_Fly_Into_Your_Dream_Tomoyasu_Hotei.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fly Into Your Dream (2016 Remastered)",
+      "artist": "Hotei",
+      "has_synced": true,
+      "path": "select/07_Fly_Into_Your_Dream_(2016_Remastered)_Hotei.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Into Your Dream (S1E1 - Pilot)",
+      "artist": "Foreign Born",
+      "has_synced": true,
+      "path": "select/08_Into_Your_Dream_(S1E1_-_Pilot)_Foreign_Born.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "FLY INTO YOUR DREAM",
+      "artist": "布袋寅泰",
+      "has_synced": true,
+      "path": "select/09_FLY_INTO_YOUR_DREAM_布袋寅泰.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "FLY INTO YOUR DREAM - Live at 武道館",
+      "artist": "布袋寅泰",
+      "has_synced": false,
+      "path": "select/10_FLY_INTO_YOUR_DREAM_-_Live_at_武道館_布袋寅泰.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Let a Thief Steal Into Your Heart",
+      "artist": "The Pointer Sisters",
+      "has_synced": false,
+      "path": "select/11_Don't_Let_a_Thief_Steal_Into_Your_Heart_The_Pointer_Sisters.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Into Your Heart",
+      "artist": "Futurecop! feat. hunz & Mosaik",
+      "has_synced": true,
+      "path": "select/12_Into_Your_Heart_Futurecop!_feat._hunz_&_Mosaik.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Into Your Heart",
+      "artist": "Futurecop!",
+      "has_synced": true,
+      "path": "select/13_Into_Your_Heart_Futurecop!.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Into Your Heart",
+      "artist": "Futurecop! Mosaik Hunz",
+      "has_synced": true,
+      "path": "select/14_Into_Your_Heart_Futurecop!_Mosaik_Hunz.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Into Your Heart (Phantom Ride remix)",
+      "artist": "Futurecop! feat. hunz & Mosaik",
+      "has_synced": false,
+      "path": "select/15_Into_Your_Heart_(Phantom_Ride_remix)_Futurecop!_feat._hunz_&_Mosaik.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Into Your Heart (Phantom Ride Remix)",
+      "artist": "Futurecop!",
+      "has_synced": false,
+      "path": "select/16_Into_Your_Heart_(Phantom_Ride_Remix)_Futurecop!.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Into Your Heart (Phantom Ride Remix)",
+      "artist": "Futurecop! Mosaik Hunz",
+      "has_synced": false,
+      "path": "select/17_Into_Your_Heart_(Phantom_Ride_Remix)_Futurecop!_Mosaik_Hunz.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Slither Into Your Soul",
+      "artist": "Occams Laser",
+      "has_synced": false,
+      "path": "select/18_Slither_Into_Your_Soul_Occams_Laser.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Gonna Break Into Your Heart",
+      "artist": "Earlimart",
+      "has_synced": true,
+      "path": "select/19_Gonna_Break_Into_Your_Heart_Earlimart.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Under Your Wings and into Your Arms",
+      "artist": "My Dying Bride",
+      "has_synced": true,
+      "path": "select/20_Under_Your_Wings_and_into_Your_Arms_My_Dying_Bride.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Into Your Light",
+      "artist": "Leaves' Eyes",
+      "has_synced": true,
+      "path": "select/21_Into_Your_Light_Leaves'_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Slip Into Your Skin",
+      "artist": "Patrick Watson",
+      "has_synced": false,
+      "path": "select/22_Slip_Into_Your_Skin_Patrick_Watson.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Burned Into Your Soul",
+      "artist": "Mortal Sin",
+      "has_synced": false,
+      "path": "select/23_Burned_Into_Your_Soul_Mortal_Sin.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Fall Into Your Dreams",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/24_Fall_Into_Your_Dreams_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Into your dream",
+      "artist": "eill",
+      "has_synced": false,
+      "path": "select/pl_01_Into_your_dream_eill.txt"
+    }
+  ]
+}
